@@ -28,7 +28,7 @@ streamlit run dashboard/dashboard.py
 ## Jupyter Notebook
 In addition to the dashboard, the project also includes a Jupyter notebook (proyek_analisis_data.ipynb) containing additional data analysis. You can open it and run the analysis in a Jupyter Notebook or JupyterLab environment.
 
-## Depencies
+## Dependencies
 All required dependencies are listed in the requirements.txt file. Here are some key dependencies:
 - `streamlit`: A framework for creating Python web based interfaces
 - `pandas` : Library for data analysis
