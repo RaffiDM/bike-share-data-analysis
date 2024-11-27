@@ -10,7 +10,7 @@ First, clone this repository into your local directory
 
 ```bash
 git clone https://github.com/RaffiDM/bike-share-data-analysis.git
-cd submission
+cd bike-share-data-analysis
 ```
 
 ### 2. Install Dependencies
