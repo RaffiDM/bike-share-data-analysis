@@ -2,6 +2,9 @@
 
 This project contains data analysis and a dashboard built using [Streamlit](https://streamlit.io/) to analyze data from CSV files
 
+## Dashboard Public URL
+You can see the public dashboard url at the following [bike-share-dashboard-dataset](https://bike-share-dashboard-dataset.streamlit.app/)
+
 ## How to Run the Dashboard
 
 ### 1. Clone this Repository
@@ -35,5 +38,5 @@ All required dependencies are listed in the requirements.txt file. Here are some
 - `matplotlib`: Used to create data visualizations
 - `seaoborn`: Also used to create data visualizations
 
-## Dashboard Public URL
-You can see the public dashboard url at the following [bike-share-dashboard-dataset](https://bike-share-dashboard-dataset.streamlit.app/)
+## Author
+Raffi Dzaky Mahendra
